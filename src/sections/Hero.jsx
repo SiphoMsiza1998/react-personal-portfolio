@@ -90,9 +90,11 @@ export const Hero = () => {
             </div>
             {/* CTAs */}
             <div className="flex flex-wrap gap-4 animation-fade-in animation-delay-300">
-              <Button size="lg">
-                Contact Me <ArrowRight className="w-5 h-5" />
-              </Button>
+              <a href="#contact">
+                <Button size="lg">
+                  Contact Me <ArrowRight className="w-5 h-5" />
+                </Button>
+              </a>
               <a href="/cv.pdf" download="Sipho_Msiza_CV.pdf">
                 <AnimatedBorderButton>
                   <Download className="w-5 h-5" />
