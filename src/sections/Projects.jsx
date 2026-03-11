@@ -28,6 +28,21 @@ const projects = [
     github: "#",
   },
   {
+    title: "MaxiSiza Laundry Services",
+    description:
+      "A full-featured laundry service website with a full-bleed hero, animated service cards, step-by-step process section, transparent pricing grid, and a booking form with R50 deposit policy enforcement. Features page-load stagger animations, scroll-triggered reveals, animated progress bars, and a fully responsive dark editorial design.",
+    image: "/projects/MaxiSiza.png",
+    tags: [
+      "React",
+      "Vite",
+      "CSS Animations",
+      "IntersectionObserver",
+      "Unsplash CDN",
+    ],
+    link: "https://maxisiza-website-krjf6ua5f-siphomsiza1998s-projects.vercel.app/",
+    github: "https://github.com/SiphoMsiza1998/maxisiza-website",
+  },
+  {
     title: "Personal Portfolio Website",
     description:
       "Designed and developed a fully responsive personal portfolio website to showcase my technical skills and projects. Implemented modern layout techniques, interactive elements, and optimized performance to enhance user experience across devices.",
